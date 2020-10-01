@@ -6,5 +6,44 @@
     <description>WebCruiter.no</description>
     <language>NO</language>
     <wc:culture_id>NB-NO</wc:culture_id>
+    <item>
+<title>Vi har for tiden ingen utlyste stillinger.</title>
+<link> </link>
+<wc:PositionTitle> </wc:PositionTitle>
+<wc:AdvertId> </wc:AdvertId>
+<wc:CompanyId> </wc:CompanyId>
+<description> </description>
+<dc:creator> </dc:creator>
+<dc:date> </dc:date>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0200</pubDate>
+<wc:apply_within_date> </wc:apply_within_date>
+<wc:company_name> </wc:company_name>
+<wc:WorkplaceCounties> </wc:WorkplaceCounties>
+<wc:WorkplaceStreetAddress> </wc:WorkplaceStreetAddress>
+<wc:WorkplacePostno> </wc:WorkplacePostno>
+<wc:WorkplacePostaddress> </wc:WorkplacePostaddress>
+<wc:ApplicableCondition> </wc:ApplicableCondition>
+<wc:Qualification> </wc:Qualification>
+<wc:Personality> </wc:Personality>
+<wc:RefNr> </wc:RefNr>
+<wc:WorkhourPercentage> </wc:WorkhourPercentage>
+<wc:EducationTitle> </wc:EducationTitle>
+<wc:AdvertTextFree/>
+<wc:ExternalPositionCode> </wc:ExternalPositionCode>
+<wc:NumberOfPositions> </wc:NumberOfPositions>
+<wc:Culture_Id> </wc:Culture_Id>
+<wc:CountryId> </wc:CountryId>
+<wc:CountryName> </wc:CountryName>
+<wc:StartDate> </wc:StartDate>
+<wc:EndDate> </wc:EndDate>
+<wc:WePubDateFrom> </wc:WePubDateFrom>
+<wc:WePubDateTo> </wc:WePubDateTo>
+<wc:IntranetPubDateFrom> </wc:IntranetPubDateFrom>
+<wc:IntranetPubDateTo> </wc:IntranetPubDateTo>
+<wc:PersonalityHeader> </wc:PersonalityHeader>
+<wc:QualificationsHeader> </wc:QualificationsHeader>
+<wc:ApplicableConditionsHeader> </wc:ApplicableConditionsHeader>
+<wc:AssignmentImages/>
+</item>
   </channel>
 </rss>
